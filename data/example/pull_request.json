@@ -1,0 +1,173 @@
+{
+  "comment_count": 0,
+  "task_count": 0,
+  "type": "pullrequest",
+  "id": 2,
+  "title": "Feature/new providers",
+  "description": "* refactory base code\n* more providers and less financing\n* fixing name provider\n* fix pipeline to tests\n* try fix pipeline\n* fix create\\_table.py to execute with PYTHONPATH\n\n\u200c",
+  "state": "MERGED",
+  "merge_commit": {
+    "type": "commit",
+    "hash": "e26d628a328d",
+    "links": {
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/commit/e26d628a328d"
+      },
+      "html": {
+        "href": "https://bitbucket.org/Mostela/mynewcar/commits/e26d628a328d"
+      }
+    }
+  },
+  "close_source_branch": true,
+  "closed_by": {
+    "display_name": "Joao Carlos",
+    "links": {
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/users/%7B66ba0ca7-808d-40d8-9a8b-5d7df6274de3%7D"
+      },
+      "avatar": {
+        "href": "https://secure.gravatar.com/avatar/0fc6c29d6126ab8708c05b1a398ba2d6?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJC-3.png"
+      },
+      "html": {
+        "href": "https://bitbucket.org/%7B66ba0ca7-808d-40d8-9a8b-5d7df6274de3%7D/"
+      }
+    },
+    "type": "user",
+    "uuid": "{66ba0ca7-808d-40d8-9a8b-5d7df6274de3}",
+    "account_id": "5baa42275eb6e064e7e42d96",
+    "nickname": "Mostela"
+  },
+  "author": {
+    "display_name": "Joao Carlos",
+    "links": {
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/users/%7B66ba0ca7-808d-40d8-9a8b-5d7df6274de3%7D"
+      },
+      "avatar": {
+        "href": "https://secure.gravatar.com/avatar/0fc6c29d6126ab8708c05b1a398ba2d6?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJC-3.png"
+      },
+      "html": {
+        "href": "https://bitbucket.org/%7B66ba0ca7-808d-40d8-9a8b-5d7df6274de3%7D/"
+      }
+    },
+    "type": "user",
+    "uuid": "{66ba0ca7-808d-40d8-9a8b-5d7df6274de3}",
+    "account_id": "5baa42275eb6e064e7e42d96",
+    "nickname": "Mostela"
+  },
+  "reason": "",
+  "created_on": "2023-01-22T21:50:40.703361+00:00",
+  "updated_on": "2023-01-22T21:51:44.498632+00:00",
+  "destination": {
+    "branch": {
+      "name": "main"
+    },
+    "commit": {
+      "type": "commit",
+      "hash": "65db90f3f16f",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/commit/65db90f3f16f"
+        },
+        "html": {
+          "href": "https://bitbucket.org/Mostela/mynewcar/commits/65db90f3f16f"
+        }
+      }
+    },
+    "repository": {
+      "type": "repository",
+      "full_name": "Mostela/mynewcar",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar"
+        },
+        "html": {
+          "href": "https://bitbucket.org/Mostela/mynewcar"
+        },
+        "avatar": {
+          "href": "https://bytebucket.org/ravatar/%7Bd1c8c219-f352-45a6-8b21-868fdc70cc07%7D?ts=python"
+        }
+      },
+      "name": "mynewcar",
+      "uuid": "{d1c8c219-f352-45a6-8b21-868fdc70cc07}"
+    }
+  },
+  "source": {
+    "branch": {
+      "name": "feature/new-providers"
+    },
+    "commit": {
+      "type": "commit",
+      "hash": "f669710ffcaf",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/commit/f669710ffcaf"
+        },
+        "html": {
+          "href": "https://bitbucket.org/Mostela/mynewcar/commits/f669710ffcaf"
+        }
+      }
+    },
+    "repository": {
+      "type": "repository",
+      "full_name": "Mostela/mynewcar",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar"
+        },
+        "html": {
+          "href": "https://bitbucket.org/Mostela/mynewcar"
+        },
+        "avatar": {
+          "href": "https://bytebucket.org/ravatar/%7Bd1c8c219-f352-45a6-8b21-868fdc70cc07%7D?ts=python"
+        }
+      },
+      "name": "mynewcar",
+      "uuid": "{d1c8c219-f352-45a6-8b21-868fdc70cc07}"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/pullrequests/2"
+    },
+    "html": {
+      "href": "https://bitbucket.org/Mostela/mynewcar/pull-requests/2"
+    },
+    "commits": {
+      "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/pullrequests/2/commits"
+    },
+    "approve": {
+      "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/pullrequests/2/approve"
+    },
+    "request-changes": {
+      "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/pullrequests/2/request-changes"
+    },
+    "diff": {
+      "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/diff/Mostela/mynewcar:f669710ffcaf%0D65db90f3f16f?from_pullrequest_id=2&topic=true"
+    },
+    "diffstat": {
+      "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/diffstat/Mostela/mynewcar:f669710ffcaf%0D65db90f3f16f?from_pullrequest_id=2&topic=true"
+    },
+    "comments": {
+      "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/pullrequests/2/comments"
+    },
+    "activity": {
+      "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/pullrequests/2/activity"
+    },
+    "merge": {
+      "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/pullrequests/2/merge"
+    },
+    "decline": {
+      "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/pullrequests/2/decline"
+    },
+    "statuses": {
+      "href": "https://api.bitbucket.org/2.0/repositories/Mostela/mynewcar/pullrequests/2/statuses"
+    }
+  },
+  "summary": {
+    "type": "rendered",
+    "raw": "* refactory base code\n* more providers and less financing\n* fixing name provider\n* fix pipeline to tests\n* try fix pipeline\n* fix create\\_table.py to execute with PYTHONPATH\n\n\u200c",
+    "markup": "markdown",
+    "html": "<ul>\n<li>refactory base code</li>\n<li>more providers and less financing</li>\n<li>fixing name provider</li>\n<li>fix pipeline to tests</li>\n<li>try fix pipeline</li>\n<li>fix create_table.py to execute with PYTHONPATH</li>\n</ul>\n<p>\u200c</p>"
+  }
+}

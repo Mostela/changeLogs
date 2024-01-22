@@ -1,29 +1,29 @@
-# {{repository.name}}
+# $repository_name
 
-## {{version_tag}}
+## $version_tag
 
-created: {{created_at}}
+created: $created_at
 approved by:
-    {{approved_by_list}}
+$approved_by_list
 
-{{description_version}}
+$description_version
 
 ## Changes
 ### Features
-{{features}}
+$features
 
 ### Bugfixes
-{{bugfixes}}
+$bugfixes
 
 ### Improvements
-{{improvements}}
+$improvements
 
 ### Documentation
-{{documentation}}
+$documentation
 
 
 ## PRs
-{{prs_url_list}}
+$prs_url_list
 
 
-hash of version: {{version_hash}}
+hash of version: $version_hash
